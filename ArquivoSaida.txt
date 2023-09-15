@@ -1,3 +1,6 @@
+Numero de trocas: 33
+Numero de comparacoes: 62
+Vetor ordenado: 
 abacate
 abacaxi
 amora
